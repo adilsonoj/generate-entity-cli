@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/adilsonoj/generate-entity-cli)](https://github.com/adilsonoj/generate-entity-cli/blob/master/LICENSE)
+
 # generate-entity-cli
 Gera uma entidade de uma determinada table do banco de dados Oracle
 
