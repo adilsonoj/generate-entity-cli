@@ -8,6 +8,8 @@ Gera uma entidade de uma determinada tabela do banco de dados Oracle
 
 ## Como utilizar
 
+```java -jar generateenetity-0.0.1.jar```
+
 ### NAME
         create - Create new entity from oracle table 
         ex: (create --schema <schema> --username <user name> --password <password> --sid <sid> --table <table name> --server <uri> --classname <class name>)
